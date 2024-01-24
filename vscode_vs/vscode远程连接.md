@@ -6,7 +6,9 @@
 
 vscode左侧 —> Extensions —>Remote-SSH
 
-![1](D:\git\record_study\vscode\fig\1.PNG)
+![1](fig\1.PNG)
 
 输入：ssh username@IP
+
+
 
